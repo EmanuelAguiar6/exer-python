@@ -1,5 +1,5 @@
 preco = 10.30
-print(preco)
+print(int(preco))
 
 
 valor = 10
